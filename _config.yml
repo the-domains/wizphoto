@@ -1,6 +1,6 @@
 name: WizPhoto
 favicon: null
-layout_spectrum: 0.72933
+layout_spectrum: 0.52444
 typography_spectrum: 0.74154
 title: Imaging Services by Wizphoto
 cta:
@@ -23,7 +23,7 @@ color:
     - '#f7fa3d'
     - '#787a1e'
   brandStrength: 0.5
-  lightness: 0.5
+  lightness: 0
   saturation: 0.5
   rhythmicContrast: 0.5
 purpose: []
